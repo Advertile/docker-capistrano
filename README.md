@@ -2,6 +2,8 @@
 
 As the base image [`ruby:2.3.0`](https://hub.docker.com/r/library/ruby/tags/) is used.
 
+[![](https://badge.imagelayers.io/advertile/docker-capistrano:latest.svg)](https://imagelayers.io/?images=advertile/docker-capistrano:latest 'Get your own badge on imagelayers.io')
+
 ## Usage Example
 
 `Dockerfile`:
